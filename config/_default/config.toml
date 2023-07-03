@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://mixdom.id/"
+baseURL = "https://mixdom.github.io/anime"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
